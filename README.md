@@ -47,8 +47,8 @@ Follow these steps to set up the development environment.
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/infant-monitor-system.git
-cd infant-monitor-system
+git clone https://github.com/tanish-0909/baby_cry_project.git
+cd baby_cry_project
 ```
 
 ### 2\. Create a Virtual Environment
